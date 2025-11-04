@@ -1,0 +1,2 @@
+# loading
+Hiệu ứng tải 
